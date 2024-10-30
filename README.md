@@ -3,7 +3,7 @@
 This repo includes a simple but comprehensive implementation of the binary search tree and AVL tree (self-balancing BST) data structures written in C++.
 
 
-The simple public interface for these AVL trees is:
+The public interface for an AVL tree is:
 ```C++
     void insert (std::pair<const Key, Value> new_item);
     void remove(Key key);
