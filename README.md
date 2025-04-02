@@ -1,11 +1,6 @@
 # AVL Trees
 
-This repository contains a **simple yet comprehensive implementation** of **Binary Search Trees (BSTs)** and **AVL Trees (self-balancing BSTs)** written from scratch in **C++**.
-
-## Features
-- **Binary Search Tree (BST)**: Standard implementation with insertion, deletion, and traversal.
-- **AVL Tree**: Self-balancing BST ensuring O(log n) insertion and deletion.
-- **Iterator Support**: Enables in-order traversal using iterators.
+This repository contains a **simple yet comprehensive implementation** of **Binary Search Trees** and **AVL Trees (self-balancing BSTs)** written from scratch in **C++**. The AVL Trees support O(log n) insertion and deletion due to their self-balancing property. 
 
 ## Public Interface
 
